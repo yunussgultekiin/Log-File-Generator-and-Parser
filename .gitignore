@@ -1,0 +1,4 @@
+logtool
+*.o
+*.d
+logs/
